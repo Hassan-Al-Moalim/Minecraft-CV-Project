@@ -1,0 +1,31 @@
+names:
+- Creeper
+- Enderman
+- Fox
+- Mooshroom
+- Ocelot
+- Panda
+- Polar Bear
+- Skeleton
+- Slime
+- Spider
+- Witch
+- Wither Skeleton
+- Wolf
+- Zombie
+- Zombified Piglin
+- bee
+- chicken
+- cow
+- iron golem
+- pig
+nc: 20
+roboflow:
+  license: CC BY 4.0
+  project: mob-ztqnt
+  url: https://universe.roboflow.com/minecraft-mob/mob-ztqnt/dataset/4
+  version: 4
+  workspace: minecraft-mob
+test: ../test/images
+train: ../train/images
+val: ../valid/images
